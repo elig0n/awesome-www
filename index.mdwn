@@ -54,17 +54,17 @@ window manager.
 * No mouse needed: everything can be performed with the keyboard.
 * Real multihead support (XRandR) with per screen desktops (tags).
 * Implements many [Freedesktop](http://www.freedesktop.org) standards:
-  [EWMH](http://standards.freedesktop.org/wm-spec/wm-spec-latest.html),
-  [XDG Base Directory](http://standards.freedesktop.org/basedir-spec/basedir-spec-latest.html),
-  [XEmbed](http://standards.freedesktop.org/xembed-spec/xembed-spec-latest.html),
-  [Desktop Notification](http://www.galago-project.org/specs/notification/),
-  [System Tray](http://standards.freedesktop.org/systemtray-spec/systemtray-spec-latest.html).
+  [EWMH](https://specifications.freedesktop.org/wm-spec/latest/),
+  [XDG Base Directory](https://specifications.freedesktop.org/basedir-spec/latest/),
+  [XEmbed](https://specifications.freedesktop.org/xembed-spec/latest/),
+  [Desktop Notification](https://specifications.freedesktop.org/notification-spec/latest/),
+  [System Tray](https://specifications.freedesktop.org/systemtray-spec/latest/).
 * Does not distinguish between layers: there is no floating or tiled layer.
 * Uses tags instead of workspaces: allow to place clients on several tags, and
   display several tags at the same time.
 * A lot of Lua extensions to add features: dynamic tagging, widget feeding,
   tabs, layouts, …
-* [D-Bus](http://dbus.freedesktop.org) support.
+* [D-Bus](https://www.freedesktop.org/wiki/Software/dbus/) support.
 * And more.
 
 This is gonna be LEGEN... wait for it... DARY!
